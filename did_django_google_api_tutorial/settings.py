@@ -129,7 +129,7 @@ STATIC_URL = '/static/'
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'static_cdn')
 
-GOOGLE_API_KEY = "AIzaSyDacwG0xuVIaaN0-65fIiaHcIy_QApu29A"
+GOOGLE_API_KEY = ""
 
 
 # Default primary key field type
